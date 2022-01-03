@@ -1,0 +1,42 @@
+body{
+    background-color: hsla(234, 79%, 66%, 0.664);
+}
+    .img1{
+        border-right: 12px solid #13220185;
+        border-left: 5px dashed hsla(220, 3%, 23%, 0.507);
+        border-top: 5px double hsla(285, 24%, 16%, 0.514);
+        border-radius: 23px;
+        height: 300px;
+        width: 300px;
+        display:inline;
+        margin: 34px 67px 54px ;
+    }
+    #link1{
+       font-size: 20px;
+ 
+        
+    }
+    .span-1{
+        font-size: 23px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-bottom: solid 4px black;
+        color: hsla(67, 77%, 14%, 0.651);
+    }
+    #id-1{
+        color: darkcyan;
+        font-size: 22px;
+        font-family: fantasy;
+    }
+    #id-2{
+        color: hsla(0, 100%, 50%, 0.459);
+        font-size: 22px;
+        font-family: fantasy;
+        background-color: skyblue;
+        
+    }
+    #id-3,pre {
+        background-color: slategrey;
+       padding: 50px;
+       text-align: center;
+       font-weight:32px;
+    }
